@@ -14,7 +14,9 @@ For implementing and testing the algorithms, I have used Google Colab, as RL alg
 - Notebook to set up the Gym environment (Resource: https://gym.openai.com/docs/)
 
 ### Resources
-**Online Course: ** [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/)
-**Textbook: ** [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
+
+**Online Course:** [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/)
+
+**Textbook:** [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 
 **NOTE: This is a work in progress. This repo will updated soon.**
