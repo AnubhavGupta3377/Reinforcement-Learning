@@ -20,7 +20,7 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 - We also see agent-environment interface
 - We understand the concept of **policy, return, value functions**
 - I have also included some of the example from Sutton and Barto to solidify the concepts
-- These notes also talk about **Bellman Expectation Equations"
+- These notes also talk about **Bellman Expectation Equations**
 - Finally we learn about **Bellman Optimality Equations** and **Optimal Policy**
 
 ### Implementations Details
