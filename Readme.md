@@ -8,12 +8,20 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 
 ### Notes Details
 #### Lecture-1
-- This set of notes discusses the problem of Reinforcement Learning and how it differs from other Machine Learning categories such as supervised learning and unsupervised learning.
-- We also describe some of the terminology used in RL, such as **environment, agent, reward, value, model**.
-- Then a brief discussion on exploration-exploitation tradeoff is provided.
+- Based on Lecture-1 of the course and Chapter-1 of Sutton and Barto
+- This set of notes discusses the problem of Reinforcement Learning and how it differs from other Machine Learning categories such as supervised learning and unsupervised learning
+- We also describe some of the terminology used in RL, such as **environment, agent, reward, value, model**
+- Then a brief discussion on exploration-exploitation tradeoff is provided
 - This secion of notes is based on
-1) Lecture-1 of the Course
-2) Book Chapter 1: The Reinforcement Learning Problem 
+
+#### Lecture-2
+- Based on Lecture-2 of the course and Chapter-3 of Sutton and Barto
+- This set of notes talks about the concept of Markov Decision Process (MDP), that most of the RL algorithms are based on
+- We also see agent-environment interface
+- We understand the concept of **policy, return, value functions**
+- I have also included some of the example from Sutton and Barto to solidify the concepts
+- These notes also talk about **Bellman Expectation Equations"
+- Finally we learn about **Bellman Optimality Equations** and **Optimal Policy**
 
 ### Implementations Details
 For implementing and testing the algorithms, I have used Google Colab, as RL algorithms are typically computationally expensive.
