@@ -31,7 +31,8 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 - I missed adding bootstrapping to the notes. Many DP methods update estimates of values of states based on estimates of values of successor states. That is they **update estimates based on other estimates**. This general idea is known as **bootstrapping**.
 
 ### Implementations Details
-For implementing and testing the algorithms, I have used Google Colab, as RL algorithms are typically computationally expensive.
+For implementing and testing the algorithms, I have used Google Colab.
+
 #### openai_gym_tutorial
 - Notebook to set up the Gym environment (Resource: https://gym.openai.com/docs/)
 
