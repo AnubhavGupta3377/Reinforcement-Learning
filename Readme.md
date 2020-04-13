@@ -30,10 +30,4 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 - We also learn about Synchronous Dynamic Programming and Asynchronous Dynamic Programming methods
 - I missed adding bootstrapping to the notes. Many DP methods update estimates of values of states based on estimates of values of successor states. That is they **update estimates based on other estimates**. This general idea is known as **bootstrapping**.
 
-### Implementations Details
-For implementing and testing the algorithms, I have used Google Colab.
-
-#### openai_gym_tutorial
-- Notebook to set up the Gym environment (Resource: https://gym.openai.com/docs/)
-
 **NOTE: This is a work in progress. This repo will updated soon.**
