@@ -8,9 +8,8 @@ Each directory contains implementations one or more sets of algorithms based on 
 
 #### Dynamic Programming
 - Implementation of following algorithms on Small Gridworld example
-1) Policy evaluation
-2) Policy improvement and policy iteration
-3) Value iteration
-
+  - Policy evaluation
+  - Policy improvement and policy iteration
+  - Value iteration
 - An implementation of Markov Decision Process for Small Gridworld is also provided.
 - The results of the implementations match exactly with those discussed in the book **Sutton and Barto**
