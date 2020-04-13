@@ -30,4 +30,12 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 - We also learn about Synchronous Dynamic Programming and Asynchronous Dynamic Programming methods
 - I missed adding bootstrapping to the notes. Many DP methods update estimates of values of states based on estimates of values of successor states. That is they **update estimates based on other estimates**. This general idea is known as **bootstrapping**.
 
+### List of Implemented Algorithms
+Following algorithms are currently implemented:
+
+- Dynamic Programming
+1) Policy Evaluation
+2) Policy Improvement and Policy Iteration
+3) Value Iteration
+
 **NOTE: This is a work in progress. This repo will updated soon.**
