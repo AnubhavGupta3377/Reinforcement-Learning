@@ -34,8 +34,8 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 Following algorithms are currently implemented:
 
 - Dynamic Programming
-1) Policy Evaluation
-2) Policy Improvement and Policy Iteration
-3) Value Iteration
+-- Policy Evaluation
+-- Policy Improvement and Policy Iteration
+-- Value Iteration
 
 **NOTE: This is a work in progress. This repo will updated soon.**
