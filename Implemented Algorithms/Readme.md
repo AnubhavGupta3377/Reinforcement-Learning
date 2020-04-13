@@ -1,5 +1,5 @@
 ### Reinforcement Learning Algorithms Implementations
-Implementations of common RL algorithms discussed in Sutton and Barto. All the algorithms were implemented on Google Colab.
+Implementations of common RL algorithms discussed in Sutton and Barto. All the algorithms were implemented and tested on Google Colab.
 
 Each directory contains implementations one or more sets of algorithms based on Sutton (except for "openai_gym_tutorial").
 
