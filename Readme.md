@@ -38,4 +38,4 @@ Following algorithms are currently implemented:
   - Policy Improvement and Policy Iteration
   - Value Iteration
 
-**NOTE: This is a work in progress. This repo will updated soon.**
+**NOTE: This is a work in progress. This repo is being regularly updated.**
