@@ -24,7 +24,6 @@ Two major resources are used in preparing these notes:
 - Discusses Dynamic Programming methods to solve the problem of Reinforcement Learning
 - Methods such as Policy Evaluation, Policy Improvement, Policy Iteration and Value Iteration are discussed
 - We also learn about Synchronous Dynamic Programming and Asynchronous Dynamic Programming methods
-- I missed adding bootstrapping to the notes. Many DP methods update estimates of values of states based on estimates of values of successor states. That is they **update estimates based on other estimates**. This general idea is known as **bootstrapping**.
 
 #### 4. Model Free Prediction
 - Based on Lecture-4 of the course and Chapters-5,6,7,12 of Sutton and Barto
