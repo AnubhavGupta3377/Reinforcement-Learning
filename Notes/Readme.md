@@ -31,4 +31,13 @@ Two major resources are used in preparing these notes:
 - These notes talk about the problem of model-free prediction, where the environment of MDP is unknown
 - Study Monte Carlo methods for policy evaluation
 - Study Temporal Difference methods TD(0)
-- Also learn about n-step bootstrapping methods, eligibility tree and TD(lambda) methods for prediction
+- Also learn about n-step bootstrapping methods, eligibility traces and TD(lambda) methods for prediction
+- Off-policy prediction methods are also covered
+
+#### 5. Model Free Control
+- Based on Lecture-5 of the course and Chapters-5,6,7,12 of Sutton and Barto
+- These notes talk about the problem of model-free control, where the environment of MDP is unknown
+- Study on-policy control methods such as Monte Carlo control, Sarsa
+- Also learn about n-step Sarsa and Sarsa(lambda) methods for model-free control
+- Off-policy control methods such as MC and Q-learning are also covered
+

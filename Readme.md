@@ -14,6 +14,12 @@ Lecture notes are based on one lecture of the online course plus one or more cha
     - Monte Carlo prediction
     - Temporal Difference prediction
     - TD-lambda methods
+    - Off-policy MC prediction using importance sampling
+5. Model Free Control
+    - Monte Carlo control
+    - On-policy TD control: Sarsa
+    - n-step Sarsa and Sarsa(lambda)
+    - Q-Learning
 
 ### List of Implemented Algorithms
 Following algorithms are currently implemented:
