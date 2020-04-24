@@ -13,14 +13,14 @@ Each directory contains implementations one or more sets of algorithms based on 
   - Value iteration
 - An implementation of Markov Decision Process for Small Gridworld is also provided.
 
-## Monte Carlo (MC)
+#### Monte Carlo (MC)
 - Implementation of following algorithms
   - Incremental every-visit MC policy evaluation
   - On-policy control using epsilon-greedy policy evaluation
   - Off-policy control using weighted importance sampling
 - Executed algorithms on openai gym's Blackjack environment
 
-## Temporal-Difference (TD)
+#### Temporal-Difference (TD)
 - Implementation of following algorithms
   - Sarsa
   - Sarsa(lambda) using eligibility traces
