@@ -24,9 +24,19 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 ### List of Implemented Algorithms
 Following algorithms are currently implemented:
 
-- **Dynamic Programming Algorithms**
-  - Policy Evaluation
-  - Policy Improvement and Policy Iteration
-  - Value Iteration
+- **Dynamic Programming (DP)**
+  - Policy evaluation
+  - Policy improvement and policy iteration
+  - Value iteration
 
-**NOTE: This is a work in progress. This repo is being regularly updated.**
+- **Monte Carlo (MC)**
+  - Incremental every-visit MC policy evaluation
+  - On-policy control using epsilon-greedy policy evaluation
+  - Off-policy control using weighted importance sampling
+
+- **Temporal-Difference (TD)**
+  - Sarsa
+  - Sarsa(lambda) using eligibility traces
+  - Q-Learning
+  
+**NOTE: This repo will be updated soon with more notes and implementations.**
