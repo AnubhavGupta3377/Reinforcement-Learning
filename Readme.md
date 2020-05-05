@@ -25,7 +25,7 @@ Lecture notes are based on one lecture of the online course plus one or more cha
     - Incremental VFA methods such as
         - Gradient Monte-Carlo 
         - Semi-gradient temporal difference
-        - Semi-gradient Sarsa, Sarsa($lambda$)
+        - Semi-gradient Sarsa, Sarsa(lambda)
     - Batch VFA methods using least squares prediction such as LSTD, LSMC
     - Least squares policy iteration and LSTDQ algorithm
     - Deep Q-learning (DQN) and associated techniques such as experience replay
