@@ -8,27 +8,12 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 **Textbook:** [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ### Lecture Notes details
-1. Introduction to Reinforcement Learning
-2. Markov Decision Processes and Bellman Equations
-3. Dynamic Programming
-4. Model Free Prediction
-    - Monte Carlo prediction
-    - Temporal Difference prediction
-    - TD-lambda methods
-    - Off-policy MC prediction using importance sampling
-5. Model Free Control
-    - Monte Carlo control
-    - On-policy TD control: Sarsa
-    - n-step Sarsa and Sarsa(lambda)
-    - Q-Learning
-6. Function Approximation
-    - Incremental VFA methods such as
-        - Gradient Monte-Carlo 
-        - Semi-gradient temporal difference
-        - Semi-gradient Sarsa, Sarsa(lambda)
-    - Batch VFA methods using least squares prediction such as LSTD, LSMC
-    - Least squares policy iteration and LSTDQ algorithm
-    - Deep Q-learning (DQN) and associated techniques such as experience replay
+1. Introduction to reinforcement learning
+2. Markov decision processes and Bellman equations
+3. Dynamic programming methods for prediction and control
+4. Model Free Prediction - Monte-Carlo and temporal-difference prediction
+5. Model Free Control, Sarsa, Q-learning
+6. Value function approximation methods, deep Q-learning (DQN)
 
 ### List of Implemented Algorithms
 Following algorithms are currently implemented:
@@ -48,4 +33,7 @@ Following algorithms are currently implemented:
   - Sarsa(lambda) using eligibility traces
   - Q-Learning
   
-**NOTE: This repo will be updated soon with more notes and implementations.**
+- **Function Approximation (FA)**
+  - Semi-gradient Q-learning
+  
+**NOTE: This is a work in progress.**
