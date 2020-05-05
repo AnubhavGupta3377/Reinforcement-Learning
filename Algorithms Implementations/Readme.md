@@ -26,3 +26,7 @@ Each directory contains implementations one or more sets of algorithms based on 
   - Sarsa(lambda) using eligibility traces
   - Q-Learning
 - Executed algorithms on openai gym's Blackjack, Cliff-Walking environments
+
+#### Function Approximation (FA)
+- Implemented semi-gradient Q-learning algorithm
+- Executed algorithm on openai gym's MountainCar environment

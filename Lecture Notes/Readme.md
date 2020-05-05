@@ -21,13 +21,13 @@ Two major resources are used in preparing these notes:
 
 #### 3. Dynamic Programming
 - Based on Lecture-3 of the course and Chapter-4 of Sutton and Barto
-- Discusses Dynamic Programming methods to solve the problem of Reinforcement Learning
+- Discuss Dynamic Programming methods to solve the problem of Reinforcement Learning
 - Methods such as Policy Evaluation, Policy Improvement, Policy Iteration and Value Iteration are discussed
 - We also learn about Synchronous Dynamic Programming and Asynchronous Dynamic Programming methods
 
 #### 4. Model Free Prediction
 - Based on Lecture-4 of the course and Chapters-5,6,7,12 of Sutton and Barto
-- These notes talk about the problem of model-free prediction, where the environment of MDP is unknown
+- Discuss the problem of model-free prediction, where the environment of MDP is unknown
 - Study Monte Carlo methods for policy evaluation
 - Study Temporal Difference methods TD(0)
 - Also learn about n-step bootstrapping methods, eligibility traces and TD(lambda) methods for prediction
@@ -35,8 +35,14 @@ Two major resources are used in preparing these notes:
 
 #### 5. Model Free Control
 - Based on Lecture-5 of the course and Chapters-5,6,7,12 of Sutton and Barto
-- These notes talk about the problem of model-free control, where the environment of MDP is unknown
+- Discuss the problem of model-free control, where the environment of MDP is unknown
 - Study on-policy control methods such as Monte Carlo control, Sarsa
 - Also learn about n-step Sarsa and Sarsa(lambda) methods for model-free control
 - Off-policy control methods such as MC and Q-learning are also covered
 
+#### 6. Function Approximation
+- Based on Lecture-6 of the course, Chapters-9,10 of Sutton and Barto, and DQN paper **"Human-level control through deep reinforcement learning"**
+- Discuss incremental VFA methods such as Gradient MC, semi-gradient TD and semi-gradient Sarsa
+- Also study batch VFA methods using least squares prediction such as LSTD, LSMC
+- Least squares policy iteration and LSTDQ algorithm
+- Finally, details of **deep Q-learning (DQN)** and associated techniques such as **experience replay** is provided

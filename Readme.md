@@ -21,6 +21,14 @@ Lecture notes are based on one lecture of the online course plus one or more cha
     - On-policy TD control: Sarsa
     - n-step Sarsa and Sarsa(lambda)
     - Q-Learning
+6. Function Approximation
+    - Incremental VFA methods such as
+        - Gradient Monte-Carlo 
+        - Semi-gradient temporal difference
+        - Semi-gradient Sarsa, Sarsa($lambda$)
+    - Batch VFA methods using least squares prediction such as LSTD, LSMC
+    - Least squares policy iteration and LSTDQ algorithm
+    - Deep Q-learning (DQN) and associated techniques such as experience replay
 
 ### List of Implemented Algorithms
 Following algorithms are currently implemented:
