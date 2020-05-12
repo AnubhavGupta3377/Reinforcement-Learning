@@ -46,3 +46,9 @@ Two major resources are used in preparing these notes:
 - Also study batch VFA methods using least squares prediction such as LSTD, LSMC
 - Least squares policy iteration and LSTDQ algorithm
 - Finally, details of **deep Q-learning (DQN)** and associated techniques such as **experience replay** is provided
+
+#### 7. Policy Gradient Methods
+- Based on Lecture-7 of the course, Chapters-13 of Sutton and Barto
+- Learn about the policy gradient and how policy gradient theorem simplifies the computation of policy gradient
+- Then we also study Monte-Carlo policy gradient algorithm called *REINFORCE* and how its variance can be reduces using baseline function
+- After that we learn about actor-critic methods for policy approximation, specifically one-step actor-critic methods and actor-critic methods with eligibility traces

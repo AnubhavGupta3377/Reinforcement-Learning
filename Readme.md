@@ -11,9 +11,10 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 1. Introduction to reinforcement learning
 2. Markov decision processes and Bellman equations
 3. Dynamic programming methods for prediction and control
-4. Model Free Prediction - Monte-Carlo and temporal-difference prediction
-5. Model Free Control, Sarsa, Q-learning
+4. Model free prediction - Monte-Carlo and temporal-difference prediction
+5. Model free control, Sarsa, Q-learning
 6. Value function approximation methods, deep Q-learning (DQN)
+7. Policy gradient methods
 
 ### List of Implemented Algorithms
 Following algorithms are currently implemented:
@@ -33,7 +34,10 @@ Following algorithms are currently implemented:
   - Sarsa(lambda) using eligibility traces
   - Q-Learning
   
-- **Function Approximation (FA)**
+- **Function Approximation Methods**
   - Semi-gradient Q-learning
+  
+- **Policy Gradient Methods**
+  - REINFORCE-with-baseline: Monte-Carlo Policy Gradient
   
 **NOTE: This is a work in progress.**
