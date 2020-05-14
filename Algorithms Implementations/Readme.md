@@ -27,6 +27,13 @@ Each directory contains implementations one or more sets of algorithms based on 
   - Q-Learning
 - Executed algorithms on openai gym's Blackjack, Cliff-Walking environments
 
-#### Function Approximation (FA)
+#### Function Approximation
 - Implemented semi-gradient Q-learning algorithm
 - Executed algorithm on openai gym's MountainCar environment
+
+#### Policy Gradient
+- Implementation of following algorithms
+  - REINFORCE-with-baseline (MC policy gradient)
+- Executed algorithm on openai gym's Cliff-Walking environment
+
+
