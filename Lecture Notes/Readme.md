@@ -50,3 +50,10 @@ Two major resources are used in preparing these notes:
 - Learn about the policy gradient and how policy gradient theorem simplifies the computation of policy gradient
 - Then we also study Monte-Carlo policy gradient algorithm called *REINFORCE* and how its variance can be reduces using baseline function
 - After that we learn about actor-critic methods for policy approximation, specifically one-step actor-critic methods and actor-critic methods with eligibility traces
+
+#### 8. Planning and Learning
+- Based on Lecture-8 of the course, Chapters-8 of Sutton and Barto
+- These notes cover the problem of model-based reinforcement learning using planning
+- We also study how to combine model-free and model-based learning using Dyna architecture, specifically Dyna-Q algorithm
+- Then some planning methods such as Monte-Carlo tree search, TD search and Dyna-2 are discussed
+

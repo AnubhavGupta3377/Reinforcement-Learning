@@ -15,6 +15,7 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 5. Model free control, Sarsa, Q-learning
 6. Value function approximation methods, deep Q-learning (DQN)
 7. Policy gradient methods
+8. Planning and Learning
 
 ### List of Implemented Algorithms
 Following algorithms are currently implemented:
@@ -36,7 +37,9 @@ Following algorithms are currently implemented:
   
 - **Function Approximation Methods**
   - Semi-gradient Q-learning
-  
+
+- **Deep Q-Networks (DQN)**
+
 - **Policy Gradient Methods**
   - REINFORCE-with-baseline: Monte-Carlo Policy Gradient
   
