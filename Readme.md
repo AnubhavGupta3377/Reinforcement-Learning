@@ -7,9 +7,6 @@ Lecture notes are based on one lecture of the online course plus one or more cha
 **Online Course:** [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/)<br/>
 **Textbook:** [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 
-<img src="/images/MountainCar.gif" width="350" height="250"/> <img src="/images/Breakout.gif" width="180" height="250"/>
-
-
 ### Lecture Notes details
 1. Introduction to reinforcement learning
 2. Markov decision processes and Bellman equations
