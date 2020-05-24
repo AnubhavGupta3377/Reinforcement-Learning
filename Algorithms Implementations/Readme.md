@@ -1,3 +1,5 @@
+<img src="/images/MountainCar.gif" width="350" height="250"/> <img src="/images/Breakout.gif" width="180" height="250"/>
+
 ### Reinforcement Learning Algorithms Implementations
 Implementations of common RL algorithms discussed in Sutton and Barto. All the algorithms were implemented and tested on Google Colab.
 
