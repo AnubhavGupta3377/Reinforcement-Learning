@@ -45,4 +45,7 @@ Following algorithms are currently implemented:
 - **Policy Gradient Methods**
   - REINFORCE-with-baseline: Monte-Carlo Policy Gradient
   
+- **Dyna**
+  - Dyna-Q algorithm (Planning and Learning)
+
 **NOTE: This is a work in progress.**

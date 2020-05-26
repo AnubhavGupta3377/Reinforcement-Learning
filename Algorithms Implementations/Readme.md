@@ -31,9 +31,16 @@ Each directory contains implementations one or more sets of algorithms based on 
 - Implemented semi-gradient Q-learning algorithm
 - Executed algorithm on openai gym's MountainCar environment
 
+#### DQN
+- Implementation of Deep Q-Networks (DQN)
+- Executed on Atari Breakout environment
+- Trained the model for 6.6M steps
+
 #### Policy Gradient
 - Implementation of following algorithms
   - REINFORCE-with-baseline (MC policy gradient)
 - Executed algorithm on openai gym's Cliff-Walking environment
 
-
+#### Dyna
+- Implementation of Dyna-Q algorithm (planning and learning)
+- Executed algorithm on openai gym's Cliff-Walking environment
