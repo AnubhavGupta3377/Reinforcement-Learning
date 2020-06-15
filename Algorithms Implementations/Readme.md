@@ -35,8 +35,19 @@ Each directory contains implementations one or more sets of algorithms based on 
 
 #### DQN
 - Implementation of Deep Q-Networks (DQN)
+- Executed on Atari Breakout and Pong environments
+- Different variations include:
+    - DQN_Pong.ipynb: The first implementation of DQN with frame-skipping
+    - DQN_Breakout.ipynb: Includes efficient implementation of replay memory and frame-skipping
+- Perfect Score on Pong
+- On breakout, average score of 45 and max score of 330 was achieved
+
+### Double DQN
+- Implementation of Double DQN
 - Executed on Atari Breakout environment
-- Trained the model for 6.6M steps
+- Efficient implementation of replay memory and frame-skipping
+- Average score of 35 was achieved for breakout
+
 
 #### Policy Gradient
 - Implementation of following algorithms

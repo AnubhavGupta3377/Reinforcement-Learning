@@ -40,9 +40,9 @@ Following algorithms are currently implemented:
 
 - **Deep Q-Networks (DQN)**
 
+- **DQN with Double Q-learning (Double DQN)**
+
 - **Policy Gradient Methods**
   - REINFORCE-with-baseline: Monte-Carlo Policy Gradient
   
 - **Dyna-Q algorithm (Planning and Learning)**
-
-**NOTE: This is a work in progress.**
