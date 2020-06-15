@@ -1,7 +1,7 @@
 ### Overview
-This Repository contains my notes from the course **"Introduction to Reinforcement Learning"** taught by David Silver at DeepMind. I have also implemented some of the popular reinforcement learning algorithms.<br/>
+This Repository contains my notes from the course **"Introduction to Reinforcement Learning"** taught by David Silver at DeepMind. Implementation of some of the popular reinforcement learning algorithms is also available.<br/>
 
-Lecture notes are based on one lecture of the online course plus one or more chapters from Sutton and Barto. All algorithms are implemented in Python3.7.
+Lecture notes are primarily based on the course videos, slides and Reinforcemnt Learning textbook by Sutton and Barto mentioned below. All algorithms are implemented in Python3.7.
 
 ### Resources
 **Online Course:** [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/)<br/>
