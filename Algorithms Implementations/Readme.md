@@ -5,7 +5,7 @@ Implementations of common RL algorithms discussed in Sutton and Barto. All the a
 
 Each directory contains implementations one or more sets of algorithms based on Sutton (except for "openai_gym_tutorial").
 
-#### openai_gym_tutorial
+#### [openai_gym_tutorial](openai_gym_tutorial)
 - Notebook to set up the Gym environment (Resource: https://gym.openai.com/docs/)
 
 #### Dynamic Programming (DP)
@@ -42,7 +42,7 @@ Each directory contains implementations one or more sets of algorithms based on 
 - Perfect Score on Pong
 - On breakout, average score of 45 and max score of 330 was achieved
 
-### Double DQN
+#### Double DQN
 - Implementation of Double DQN
 - Executed on Atari Breakout environment
 - Efficient implementation of replay memory and frame-skipping
