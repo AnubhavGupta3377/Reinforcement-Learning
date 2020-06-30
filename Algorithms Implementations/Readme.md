@@ -29,7 +29,7 @@ Each directory contains implementations one or more sets of algorithms based on 
   - Q-Learning
 - Executed algorithms on openai gym's Blackjack, Cliff-Walking environments
 
-#### [Function Approximation](Function Approximation)
+#### [Function Approximation](Function%20Approximation)
 - Implemented semi-gradient Q-learning algorithm
 - Executed algorithm on openai gym's MountainCar environment
 
