@@ -8,21 +8,21 @@ Each directory contains implementations one or more sets of algorithms based on 
 #### [openai_gym_tutorial](openai_gym_tutorial)
 - Notebook to set up the Gym environment (Resource: https://gym.openai.com/docs/)
 
-#### [Dynamic Programming](Dynamic Programming (DP))
+#### [Dynamic Programming (DP)](Dynamic%20Programming)
 - Implementation of following algorithms on Small Gridworld example
   - Policy evaluation
   - Policy improvement and policy iteration
   - Value iteration
 - An implementation of Markov Decision Process for Small Gridworld is also provided.
 
-#### [Monte Carlo](Monte Carlo (MC))
+#### [Monte Carlo (MC)](Monte%20Carlo)
 - Implementation of following algorithms
   - Incremental every-visit MC policy evaluation
   - On-policy control using epsilon-greedy policy evaluation
   - Off-policy control using weighted importance sampling
 - Executed algorithms on openai gym's Blackjack environment
 
-#### [Temporal-Difference](Temporal-Difference (TD))
+#### [Temporal-Difference (TD)](Temporal%20Difference)
 - Implementation of following algorithms
   - Sarsa
   - Sarsa(lambda) using eligibility traces
@@ -42,14 +42,14 @@ Each directory contains implementations one or more sets of algorithms based on 
 - Perfect Score on Pong
 - On breakout, average score of 45 and max score of 330 was achieved
 
-#### [Double DQN](Double DQN)
+#### [Double DQN](Double%20DQN)
 - Implementation of Double DQN
 - Executed on Atari Breakout environment
 - Efficient implementation of replay memory and frame-skipping
 - Average score of 35 was achieved for breakout
 
 
-#### [Policy Gradient](Policy Gradient)
+#### [Policy Gradient](Policy%20Gradient)
 - Implementation of following algorithms
   - REINFORCE-with-baseline (MC policy gradient)
 - Executed algorithm on openai gym's Cliff-Walking environment
