@@ -3,13 +3,13 @@ Two major resources are used in preparing these notes:
 1. Lecture videos and slides from [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/)<br/>
 2. [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 
-#### 1. Introduction to Reinforcement Learning
+#### 1. Introduction to Reinforcement Learning (Handwritten)
 - Based on Lecture-1 of the course and Chapter-1 of Sutton and Barto
 - This set of notes discusses the problem of Reinforcement Learning and how it differs from other Machine Learning categories such as supervised learning and unsupervised learning
 - Also discuss some of the terminology used in RL, such as environment, agent, reward, value, model
 - Then a brief discussion on exploration-exploitation tradeoff is provided
 
-#### 2. Markov Decision Processes and Bellman Equations
+#### 2. Markov Decision Processes and Bellman Equations (Handwritten)
 - Based on Lecture-2 of the course and Chapter-3 of Sutton and Barto
 - This set of notes talks about the concept of Markov Decision Process (MDP), that most of the RL algorithms are based on
 - Understand the concept of policy, return, value functions
@@ -17,7 +17,7 @@ Two major resources are used in preparing these notes:
 - These notes also talk about Bellman Expectation Equations
 - Finally we learn about Bellman Optimality Equations and Optimal Policy
 
-#### 3. Dynamic Programming
+#### 3. Dynamic Programming (Handwritten)
 - Based on Lecture-3 of the course and Chapter-4 of Sutton and Barto
 - Discuss Dynamic Programming methods to solve the problem of Reinforcement Learning
 - Methods such as Policy Evaluation, Policy Improvement, Policy Iteration and Value Iteration are discussed
